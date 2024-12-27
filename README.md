@@ -2,12 +2,12 @@
   
 
 
-<p align="center">                                                  𝗔𝗡𝗬𝗪𝗔𝗬 𝗠𝗗-𝗩𝟭 
+<p align="center">                                                  UNLIMITED 𝗠𝗗
   
 
 </p>
 <p align="center"> 
-  <a href="https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09">
+  <a href="https://https://whatsapp.com/channel/0029Vaybu7ZHAdNNsUJ9uR1J">
     <img alt=Support height="390" src="https://files.catbox.moe/xbc2cd.png"> 
     </p>
  
@@ -15,7 +15,7 @@
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+ANYWAY-MD+MADE+IN+TANZANIA+🇹🇿♥️🇹🇿" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+UNLIMITED TECH-MD+MADE+IN+TANZANIA+🇹🇿♥️🇹🇿" alt="Typing SVG" /></a>
 
 
 
