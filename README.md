@@ -2,12 +2,12 @@
   
 
 
-<p align="center">                                                  𝗔𝗡𝗬𝗪𝗔𝗬 𝗠𝗗-𝗩𝟭 
+<p align="center">                                                  UNLIMITED 𝗠𝗗 
   
 
 </p>
 <p align="center"> 
-  <a href="https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09">
+  <a href="https://whatsapp.com/channel/0029Vaybu7ZHAdNNsUJ9uR1J">
     <img alt=Support height="390" src="https://files.catbox.moe/xbc2cd.png"> 
     </p>
  
@@ -15,7 +15,7 @@
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+ANYWAY-MD+MADE+IN+TANZANIA+🇹🇿♥️🇹🇿" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+UNLIMITED-MD+MADE+IN+TANZANIA+🇹🇿♥️🇹🇿" alt="Typing SVG" /></a>
 
 
 
@@ -25,13 +25,13 @@
 #### SETUP 
 
 
-[`FORK`](https://github.com/SIMON32883/MR-ANYWAY-MD/fork)
+[`FORK`](github.com/alfa-stark)
 
 
  
 
 
-[`PAIRING CODE`](https://anyway-session-1.onrender.com)
+[`PAIRING CODE`](https:/alfa-session-1.onrender.com)
  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -45,7 +45,7 @@
 
 2. `If You Have a Heroku Account`
 
-  - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/SIMON32883/MR-ANYWAY-MD"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/github.com/alfa-stark"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 #### DEPLOY ON RENDER 
